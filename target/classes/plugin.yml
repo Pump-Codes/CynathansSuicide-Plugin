@@ -1,0 +1,6 @@
+name: CynathansKill
+version: 1.3
+description: Adds back old /kill suicide mechanic for players without the cynathans.command.kill permission.
+authors: [ Cynathan ]
+api-version: 1.16
+main: not.hub.cynathanskill.Plugin
